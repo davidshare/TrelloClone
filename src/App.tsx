@@ -1,4 +1,4 @@
-import { AppContainer } from './src/styles'
+import { AppContainer } from './styles'
 
 export const App = () => {
   return(
